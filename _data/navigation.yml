@@ -6,17 +6,14 @@ main:
   - title: "News"
     url: "/#-news"
 
-  - title: "Publications"
-    url: "/#-publications"
-
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
-
-  - title: "Educations"
-    url: "/#-educations"
-
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
+  - title: "Selected Publications"
+    url: "/#-selected-publications"
 
   - title: "Internships"
     url: "/#-internships"
+
+  - title: "Selected Honors and Awards"
+  url: "/#selected-honors-and-awards"
+
+  - title: "Academic Services"
+  url: "/#-academic-services"
