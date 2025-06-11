@@ -16,8 +16,5 @@ main:
     url: "/#-selected-honors-and-awards"
 
   - title: "Academic Services"
-<<<<<<< HEAD
     url: "/#-academic-services"
-=======
-    url: "/#-academic-services"
->>>>>>> c6400631646246905c9a361a5eee9997069820cf
+
