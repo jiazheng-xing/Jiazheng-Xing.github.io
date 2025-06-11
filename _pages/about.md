@@ -174,6 +174,6 @@ Research Intern @ Alibaba Group. Focus on Customized and Controllable Generation
 - *2019.06* Second Prize in the Provincial Division of the National Mechanics Competition for College Students. 
 - *2019.05* Honorable Mention in Mathematical Contest in Modeling. 
 
-# 🎓 Academic Service 
+# 🎓 Academic Services 
 Reviewer: ICCV, CVPR, BMVC, IJCV, IEEE TNNLS, and IEEE TCSVT.
 
