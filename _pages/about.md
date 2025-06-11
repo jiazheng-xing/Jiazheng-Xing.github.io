@@ -21,7 +21,7 @@ redirect_from:
 I am a Ph.D. candidate in the Department of Control Science and Engineering at Zhejiang University (ZJU), where I have been since 2021, under the supervision of [Prof. Yong Liu](https://scholar.google.com/citations?user=qYcgBbEAAAAJ&hl=en) at the [April Lab](https://april.zju.edu.cn/). Prior to this, I obtained my B.Eng from Chongqing University (CQU) with an honor degree at Hongshen Honors College in 2021. Currently, I am a visiting Ph.D. student at the National University of Singapore (NUS), working under the guidance of [Prof.  Mike Z. SHOW](https://scholar.google.com/citations?user=h1-3lSoAAAAJ&hl=zh-CN) at the [Show Lab](https://sites.google.com/view/showlab).
 
 My current research interests and past experience can be summarized as follows:
-- 1️⃣ Generative Models: Controllable Image Generation, Customized Video Generation, Generation Safety;
+- 1️⃣ Generative AI: Controllable Image Generation, Customized Video Generation, Generation Safety;
 - 2️⃣ Representation Learning: Action Recognition, Few-shot Action Recognition, Multimodal Learning;
 - 3️⃣ Unified Models.
 
