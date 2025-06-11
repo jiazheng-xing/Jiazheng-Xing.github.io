@@ -13,7 +13,7 @@ main:
     url: "/#-internships"
 
   - title: "Selected Honors and Awards"
-  url: "/#selected-honors-and-awards"
+    url: "/#selected-honors-and-awards"
 
   - title: "Academic Services"
-  url: "/#-academic-services"
+    url: "/#-academic-services"
