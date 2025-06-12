@@ -15,9 +15,12 @@ google_scholar_stats_use_cdn : true
 google_analytics_id      : G-GLNDTW1LMJ # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
-google_site_verification : _toYu6WXZxwaZiIr58BSVMwuDv5XgddP3fx9aHIuxXE # get google_site_verification from https://search.google.com/search-console/about
-bing_site_verification   : 9ce758e4a169bee386f90a9c0a62e717 # get bing_site_verification from https://www.bing.com/webmasters/about
-baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
+google_site_verification : _toYu6WXZxwaZiIr58BSVMwuDv5XgddP3fx9aHIuxXE 
+bing_site_verification   : 9ce758e4a169bee386f90a9c0a62e717 
+baidu_site_verification  :  
+# get google_site_verification from https://search.google.com/search-console/about
+# get bing_site_verification from https://www.bing.com/webmasters/about
+# get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
 author:
