@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 😎 About Me
-I am a Ph.D. candidate in the Department of Control Science and Engineering at Zhejiang University (ZJU), where I have been since 2021, under the supervision of [Prof. Yong Liu](https://scholar.google.com/citations?user=qYcgBbEAAAAJ&hl=en) at the [April Lab](https://april.zju.edu.cn/). Prior to this, I obtained my B.Eng from Chongqing University (CQU) with an honor degree at Hongshen Honors College in 2021. Currently, I am a visiting Ph.D. student at the National University of Singapore (NUS), working under the guidance of [Prof.  Mike Z. SHOW](https://scholar.google.com/citations?user=h1-3lSoAAAAJ&hl=zh-CN) at the [Show Lab](https://sites.google.com/view/showlab).
+I am a Ph.D. candidate in the Department of Control Science and Engineering at Zhejiang University (ZJU), where I have been since 2021, under the supervision of [Prof. Yong Liu](https://scholar.google.com/citations?user=qYcgBbEAAAAJ&hl=en) at the [April Lab](https://april.zju.edu.cn/). Currently, I am a visiting Ph.D. student at the National University of Singapore (NUS), working under the guidance of [Prof.  Mike Z. SHOW](https://scholar.google.com/citations?user=h1-3lSoAAAAJ&hl=zh-CN) at the [Show Lab](https://sites.google.com/view/showlab).
 
 My current research interests and past experience can be summarized as follows:
 - 1️⃣ Generative AI: Controllable Image Generation, Customized Video Generation, Generation Safety;
@@ -165,10 +165,9 @@ Research Intern @ Alibaba Group. Focus on Customized and Controllable Generation
 
 # 🎖 Selected Honors and Awards
 - *2024.12* Huawei Elite Scholarship. 
-- *2023.12* National Scholarship, Ministry of Education of China (graduate stage in ZJU). 
-- *2021.06* Outstanding Graduates of Chongqing University. 
-- *2020.12* National Scholarship, Ministry of Education of China (undergraduate stage in CQU). 
-- *2020.06* Outstanding Student of Chongqing. 
+- *2023.12* National Scholarship, Ministry of Education of China (graduate stage). 
+- *2020.12* National Scholarship, Ministry of Education of China (undergraduate stage). 
+- *2020.06* Provincial Outstanding Student Award. 
 - *2019.11* Second Prize in National Mathematical Modeling Contest. 
 - *2019.11* First Prize in the Provincial Division of the National Mathematical Competition for College Students.
 - *2019.06* Second Prize in the Provincial Division of the National Mechanics Competition for College Students. 
