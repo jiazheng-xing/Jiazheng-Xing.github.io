@@ -21,7 +21,7 @@ redirect_from:
 I am a Ph.D. candidate in the Department of Control Science and Engineering at Zhejiang University (ZJU), where I have been since 2021, under the supervision of [Prof. Yong Liu](https://scholar.google.com/citations?user=qYcgBbEAAAAJ&hl=en) at the [April Lab](https://april.zju.edu.cn/). Currently, I am a visiting Ph.D. student at the National University of Singapore (NUS), working under the guidance of [Prof.  Mike Z. SHOW](https://scholar.google.com/citations?user=h1-3lSoAAAAJ&hl=zh-CN) at the [Show Lab](https://sites.google.com/view/showlab).
 
 My current research interests and past experience can be summarized as follows:
-- 1️⃣ Generative AI: Controllable Image Generation, Customized Video Generation, Generation Safety;
+- 1️⃣ Generative Models: Controllable Image Generation, Customized Video Generation, Generation Safety;
 - 2️⃣ Representation Learning: Action Recognition, Few-shot Action Recognition, Multimodal Learning;
 - 3️⃣ Unified Models.
 
@@ -41,12 +41,14 @@ My current research interests and past experience can be summarized as follows:
 # 📝 Selected Publications 
 (\* means equal contributions)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2025</div><img src='images/MA-FSAR.jpg' alt="sym" width="98%"></div></div>
+## 🤖 Generative AI
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/OptMark.png' alt="sym" width="98%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**PR 2025**] [MA-FSAR: Multimodal Adaptation of CLIP for few-shot action recognition
-](https://www.sciencedirect.com/science/article/pii/S003132032500562X) <span style="color:red">[CCF-B]</span> \\
-**Jiazheng Xing**, Jian Zhao, Chao Xu, Mengmeng Wang, Guang Dai, Yong Liu, Jingdong Wang, Xuelong Li
+[**Preprint 2025**] [OptMark: Robust Multi-bit Diffusion Watermarking via Inference Time Optimization](https://arxiv.org/abs/2508.21727) \\
+**Jiazheng Xing \***, Hai Ci\*, Hongbin Xu, Hangjie Yuan, Yong Liu, Mike Zheng Shou
+
+[**Project Page**](https://jiazheng-xing.github.io/optmark-home/)
 
 </div>
 </div>
@@ -64,6 +66,27 @@ My current research interests and past experience can be summarized as follows:
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/ImagineID.jpg' alt="sym" width="98%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**CVPR 2024**] [FaceChain-ImagineID: Freely Crafting High-Fidelity Diverse Talking Faces from Disentangled Audio](https://openaccess.thecvf.com/content/CVPR2024/html/Xu_FaceChain-ImagineID_Freely_Crafting_High-Fidelity_Diverse_Talking_Faces_from_Disentangled_Audio_CVPR_2024_paper.html) <span style="color:red">[CCF-A]</span> \\
+Chao Xu\*, Yang Liu\*, **Jiazheng Xing**, Weida Wang, Mingze Sun, Jun Dan, Tianxin Huang, Siyuan Li, Zhi-Qi Cheng, Ying Tai, Baigui Sun
+
+</div>
+</div>
+
+## 🧠 Representation Learning
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2025</div><img src='images/MA-FSAR.jpg' alt="sym" width="98%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**PR 2025**] [MA-FSAR: Multimodal Adaptation of CLIP for few-shot action recognition
+](https://www.sciencedirect.com/science/article/pii/S003132032500562X) <span style="color:red">[CCF-B]</span> \\
+**Jiazheng Xing**, Jian Zhao, Chao Xu, Mengmeng Wang, Guang Dai, Yong Liu, Jingdong Wang, Xuelong Li
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/Sdstrack.jpg' alt="sym" width="98%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -73,15 +96,6 @@ Xiaojun Hou, **Jiazheng Xing**, Yijie Qian, Yaowei Guo, Shuo Xin, Junhao Chen, K
 
 [**Code**](https://github.com/hoqolo/SDSTrack) &nbsp;
 [![](https://img.shields.io/github/stars/hoqolo/SDSTrack?style=social&label=Code+Stars)](https://github.com/hoqolo/SDSTrack)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/ImagineID.jpg' alt="sym" width="98%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[**CVPR 2024**] [FaceChain-ImagineID: Freely Crafting High-Fidelity Diverse Talking Faces from Disentangled Audio](https://openaccess.thecvf.com/content/CVPR2024/html/Xu_FaceChain-ImagineID_Freely_Crafting_High-Fidelity_Diverse_Talking_Faces_from_Disentangled_Audio_CVPR_2024_paper.html) <span style="color:red">[CCF-A]</span> \\
-Chao Xu\*, Yang Liu\*, **Jiazheng Xing**, Weida Wang, Mingze Sun, Jun Dan, Tianxin Huang, Siyuan Li, Zhi-Qi Cheng, Ying Tai, Baigui Sun
 
 </div>
 </div>
@@ -144,8 +158,12 @@ Mengmeng Wang\*, **Jiazheng Xing\***, Jing Su, Jun Chen, Yong Liu
 </div>
 
 #### 📑 Other Papers
+- ``Preprint`` [Lumos-1: On autoregressive video generation from a unified model perspective](https://arxiv.org/abs/2507.08801) <span style="color:red"></span> <br> 
+Hangjie Yuan, Weihua Chen, Jun Cen, Hu Yu, Jingyun Liang, Shuning Chang, Zhihui Lin, Tao Feng, Pengwei Liu, **Jiazheng Xing**, Hao Luo, Jiasheng Tang, Fan Wang, Yi Yang
 - ``Preprint`` [LumosFlow: Motion-Guided Long Video Generation](https://arxiv.org/abs/2506.02497) <span style="color:red"></span> <br> 
 Jiahao Chen, Hangjie Yuan, Yichen Qian, Jingyun Liang, **Jiazheng Xing**, Pengwei Liu, Weihua Chen, Fan Wang, Bing Su
+- ``Preprint`` [Cyc3D: Fine-grained Controllable 3D Generation via Cycle Consistency Regularization](https://arxiv.org/abs/2504.14975) <span style="color:red"></span> <br> 
+Hongbin Xu, Chaohui Yu, Feng Xiao, **Jiazheng Xing**, Hai Ci, Weitao Chen, Ming Li
 - ``ICASSP 2025`` [CFSum: A Transformer-Based Multi-Modal Video Summarization Framework With Coarse-Fine Fusion](https://ieeexplore.ieee.org/abstract/document/10889812) <span style="color:red">[CCF-B]</span> <br>
 Yaowei Guo, **Jiazheng Xing**, Xiaojun Hou, Shuo Xin, Juntao Jiang, Demetri Terzopoulos, Chenfanfu Jiang, Yong Liu
 - ``Preprint`` [Visual Object Tracking across Diverse Data Modalities: A Review](https://arxiv.org/abs/2506.02497) <span style="color:red"></span> <br>
@@ -153,15 +171,19 @@ Mengmeng Wang, Teli Ma, Shuo Xin, Xiaojun Hou, **Jiazheng Xing**, Guang Dai, Jin
 - ``ACMMM 2024`` [HOGDA: Boosting Semi-supervised Graph Domain Adaptation via High-Order Structure-Guided Adaptive Feature Alignment](https://dl.acm.org/doi/abs/10.1145/3664647.3680765) <span style="color:red">[CCF-A]</span> <br>
 Jun Dan, Weiming Liu, Mushui Liu, Chunfeng Xie, Shunjie Dong, Guofang Ma, Yanchao Tan, **Jiazheng Xing**
 
+# 📖 Education & Visiting
+- *2024.10 - now:*  Visiting Ph.D. Student in the Department of Electrical and Computer Engineering, National University of Singapore, Singapore.
+- *2021.09 - now:*  M.S. + Ph.D. Student in the Department of Control Science and Engineering, Zhejiang University, China. (admitted with exam exemption)
+- *2017.09 - 2021.06:* B.Eng with an honor degree at the Hongshen Honors College, Chongqing University, China.
+
 # 💻 Internships
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/alibaba_logo.png' alt="sym" width="98%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/alibaba_logo.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Alibaba Group**] 
 Research Intern @ Alibaba Group. Focus on Customized and Controllable Generation.
 </div>
 </div>
-
 
 # 🎖 Selected Honors and Awards
 - *2024.12* Huawei Elite Scholarship. 
@@ -173,6 +195,5 @@ Research Intern @ Alibaba Group. Focus on Customized and Controllable Generation
 - *2019.06* Second Prize in the Provincial Division of the National Mechanics Competition for College Students. 
 - *2019.05* Honorable Mention in Mathematical Contest in Modeling. 
 
-# 🎓 Academic Services 
+# 🎓 Academic Service 
 Reviewer: ICCV, CVPR, BMVC, IJCV, IEEE TNNLS, and IEEE TCSVT.
-
