@@ -196,4 +196,5 @@ Research Intern @ Alibaba Group. Focus on Customized and Controllable Generation
 - *2019.05* Honorable Mention in Mathematical Contest in Modeling. 
 
 # 🎓 Academic Service 
-Reviewer: ICCV, CVPR, BMVC, IJCV, IEEE TNNLS, and IEEE TCSVT.
+Reviewer (Conferences): AAAI, ICCV, CVPR, and BMVC.
+Reviewer (Journals): IJCV, IEEE TNNLS, IEEE TCSVT, and ACM TOMM.
