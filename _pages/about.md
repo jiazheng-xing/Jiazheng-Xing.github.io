@@ -18,7 +18,8 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 😎 About Me
-I am a Ph.D. candidate in the Department of Control Science and Engineering at Zhejiang University (ZJU), where I have been since 2021, under the supervision of [Prof. Yong Liu](https://scholar.google.com/citations?user=qYcgBbEAAAAJ&hl=en) at the [April Lab](https://april.zju.edu.cn/). Currently, I am a visiting Ph.D. student at the National University of Singapore (NUS), working under the guidance of [Prof.  Mike Z. SHOW](https://scholar.google.com/citations?user=h1-3lSoAAAAJ&hl=zh-CN) at the [Show Lab](https://sites.google.com/view/showlab).
+I am a Ph.D. candidate in the Department of Control Science and Engineering at Zhejiang University (ZJU), where I have been since 2021, under the supervision of [Prof. Yong Liu](https://scholar.google.com/citations?user=qYcgBbEAAAAJ&hl=en) at the [April Lab](https://april.zju.edu.cn/).  I have undertaken a one-year visiting Ph.D program at the National University of Singapore (NUS), working under the supervision of [Prof.  Mike Z. SHOW](https://scholar.google.com/citations?user=h1-3lSoAAAAJ&hl=zh-CN) in the [Show Lab](https://sites.google.com/view/showlab).
+<!-- Currently, I am a visiting Ph.D. student at the National University of Singapore (NUS), working under the guidance of [Prof.  Mike Z. SHOW](https://scholar.google.com/citations?user=h1-3lSoAAAAJ&hl=zh-CN) at the [Show Lab](https://sites.google.com/view/showlab). -->
 
 My current research interests and past experience can be summarized as follows:
 - 1️⃣ Generative Models: Controllable Image Generation, Customized Video Generation, Generation Safety;
@@ -178,7 +179,7 @@ Mengmeng Wang, Teli Ma, Shuo Xin, Xiaojun Hou, **Jiazheng Xing**, Guang Dai, Jin
 Jun Dan, Weiming Liu, Mushui Liu, Chunfeng Xie, Shunjie Dong, Guofang Ma, Yanchao Tan, **Jiazheng Xing**
 
 # 📖 Education & Visiting
-- *2024.10 - now:*  Visiting Ph.D. Student in the Department of Electrical and Computer Engineering, National University of Singapore, Singapore.
+- *2024.10 - 2025.10:*  Visiting Ph.D. Student in the Department of Electrical and Computer Engineering, National University of Singapore, Singapore.
 - *2021.09 - now:*  M.S. + Ph.D. Student in the Department of Control Science and Engineering, Zhejiang University, China. (admitted with exam exemption)
 - *2017.09 - 2021.06:* B.Eng with an honor degree at the Hongshen Honors College, Chongqing University, China.
 
