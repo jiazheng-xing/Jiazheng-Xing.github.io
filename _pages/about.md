@@ -27,6 +27,8 @@ My current research interests and past experience can be summarized as follows:
 
 
 # 🔥 News
+- *2025.11*: &nbsp;🎉 [OptMark](https://arxiv.org/abs/2508.21727) and [Cyc3D](https://arxiv.org/abs/2504.14975) are accepted by *AAAI 2026*! 
+- *2025.09*: &nbsp;🎉 [UniLumos](https://arxiv.org/abs/2511.01678) is accepted by *NeurIPS 2025*! 
 - *2025.05*: &nbsp;🎉 [MA-FSAR](https://www.sciencedirect.com/science/article/pii/S003132032500562X) is accepted by *Pattern Recognition (PR 2025)*! 
 - *2025.01*: &nbsp;🎉 [TryOn-Adapter](https://link.springer.com/article/10.1007/s11263-025-02352-3) is accepted by *International Journal of Computer Vision (IJCV 2025)*! 
 - *2024.12*: &nbsp;🎉 [CFSum](https://ieeexplore.ieee.org/abstract/document/10889812) is accepted by *ICASSP 2025*! 
@@ -42,10 +44,10 @@ My current research interests and past experience can be summarized as follows:
 (\* means equal contributions)
 
 ## 🤖 Generative AI
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/OptMark.png' alt="sym" width="98%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/OptMark.png' alt="sym" width="98%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Preprint 2025**] [OptMark: Robust Multi-bit Diffusion Watermarking via Inference Time Optimization](https://arxiv.org/abs/2508.21727) \\
+[**AAAI 2026**] [OptMark: Robust Multi-bit Diffusion Watermarking via Inference Time Optimization](https://arxiv.org/abs/2508.21727)  <span style="color:red">[CCF-A]</span>  \\
 **Jiazheng Xing \***, Hai Ci\*, Hongbin Xu, Hangjie Yuan, Yong Liu, Mike Zheng Shou
 
 [**Project Page**](https://jiazheng-xing.github.io/optmark-home/)
@@ -158,11 +160,15 @@ Mengmeng Wang\*, **Jiazheng Xing\***, Jing Su, Jun Chen, Yong Liu
 </div>
 
 #### 📑 Other Papers
+- ``NeurIPS 2025`` [UniLumos: Fast and Unified Image and Video Relighting with Physics-Plausible Feedback](https://arxiv.org/abs/2511.01678) <span style="color:red"></span> <br> 
+Ropeway Liu, Hangjie Yuan, Bo Dong, **Jiazheng Xing**, Jinwang Wang, Rui Zhao, Yan Xing, Weihua Chen, Fan Wang
+- ``Preprint`` [LumosFlow: Motion-Guided Long Video Generation](https://arxiv.org/abs/2506.02497) <span style="color:red"></span> <br> 
+Jiahao Chen, Hangjie Yuan, Yichen Qian, Jingyun Liang, **Jiazheng Xing**, Pengwei Liu, Weihua Chen, Fan Wang, Bing Su
 - ``Preprint`` [Lumos-1: On autoregressive video generation from a unified model perspective](https://arxiv.org/abs/2507.08801) <span style="color:red"></span> <br> 
 Hangjie Yuan, Weihua Chen, Jun Cen, Hu Yu, Jingyun Liang, Shuning Chang, Zhihui Lin, Tao Feng, Pengwei Liu, **Jiazheng Xing**, Hao Luo, Jiasheng Tang, Fan Wang, Yi Yang
 - ``Preprint`` [LumosFlow: Motion-Guided Long Video Generation](https://arxiv.org/abs/2506.02497) <span style="color:red"></span> <br> 
 Jiahao Chen, Hangjie Yuan, Yichen Qian, Jingyun Liang, **Jiazheng Xing**, Pengwei Liu, Weihua Chen, Fan Wang, Bing Su
-- ``Preprint`` [Cyc3D: Fine-grained Controllable 3D Generation via Cycle Consistency Regularization](https://arxiv.org/abs/2504.14975) <span style="color:red"></span> <br> 
+- ``AAAI 2026`` [Cyc3D: Fine-grained Controllable 3D Generation via Cycle Consistency Regularization](https://arxiv.org/abs/2504.14975)  <span style="color:red">[CCF-A]</span> <br>
 Hongbin Xu, Chaohui Yu, Feng Xiao, **Jiazheng Xing**, Hai Ci, Weitao Chen, Ming Li
 - ``ICASSP 2025`` [CFSum: A Transformer-Based Multi-Modal Video Summarization Framework With Coarse-Fine Fusion](https://ieeexplore.ieee.org/abstract/document/10889812) <span style="color:red">[CCF-B]</span> <br>
 Yaowei Guo, **Jiazheng Xing**, Xiaojun Hou, Shuo Xin, Juntao Jiang, Demetri Terzopoulos, Chenfanfu Jiang, Yong Liu
@@ -196,6 +202,6 @@ Research Intern @ Alibaba Group. Focus on Customized and Controllable Generation
 - *2019.05* Honorable Mention in Mathematical Contest in Modeling. 
 
 # 🎓 Academic Service 
-Reviewer (Conferences): AAAI, ICCV, CVPR, and BMVC.
+Reviewer (Conferences): ICLR, AAAI, ICCV, CVPR, and BMVC.
 
-Reviewer (Journals): IJCV, IEEE TNNLS, IEEE TCSVT, and ACM TOMM.
+Reviewer (Journals): IJCV, IEEE TNNLS, IEEE TCSVT, PR, and ACM TOMM.
