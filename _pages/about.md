@@ -197,4 +197,5 @@ Research Intern @ Alibaba Group. Focus on Customized and Controllable Generation
 
 # 🎓 Academic Service 
 Reviewer (Conferences): AAAI, ICCV, CVPR, and BMVC.
+
 Reviewer (Journals): IJCV, IEEE TNNLS, IEEE TCSVT, and ACM TOMM.
