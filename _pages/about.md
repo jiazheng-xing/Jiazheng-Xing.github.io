@@ -28,6 +28,7 @@ My current research interests and past experience can be summarized as follows:
 
 
 # 🔥 News
+- *2026.01*: &nbsp;🎉 [LumosX](https://arxiv.org/abs/2603.20192) and [Lumos-1](https://arxiv.org/abs/2507.08801) are accepted by *ICLR 2026*! 
 - *2025.11*: &nbsp;🎉 [OptMark](https://arxiv.org/abs/2508.21727) and [Cyc3D](https://arxiv.org/abs/2504.14975) are accepted by *AAAI 2026*! 
 - *2025.09*: &nbsp;🎉 [UniLumos](https://arxiv.org/abs/2511.01678) is accepted by *NeurIPS 2025*! 
 - *2025.05*: &nbsp;🎉 [MA-FSAR](https://www.sciencedirect.com/science/article/pii/S003132032500562X) is accepted by *Pattern Recognition (PR 2025)*! 
@@ -45,6 +46,20 @@ My current research interests and past experience can be summarized as follows:
 (\* means equal contributions)
 
 ## 🤖 Generative AI
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/LumosX.png' alt="sym" width="98%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**ICLR 2026**] [LumosX: Relate Any Identities with Their Attributes for Personalized Video Generation](https://arxiv.org/abs/2603.20192)  <span style="color:red">[CCF-A]</span>  \\
+**Jiazheng Xing \***, Fei Du\*, Hangjie Yuan\*, Pengwei Liu, Hongbin Xu, Hai Ci, Ruigang Niu, Weihua Chen, Fan Wang, Yong Liu
+
+[**Project Page**](https://jiazheng-xing.github.io/lumosx-home/)
+[**Code**](https://github.com/alibaba-damo-academy/Lumos-Custom) &nbsp;
+[![](https://img.shields.io/github/stars/alibaba-damo-academy/Lumos-Custom?style=social&label=Code+Stars)](https://github.com/alibaba-damo-academy/Lumos-Custom)
+[**Models**](https://huggingface.co/Alibaba-DAMO-Academy/LumosX) &nbsp;
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/OptMark.png' alt="sym" width="98%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -63,8 +78,8 @@ My current research interests and past experience can be summarized as follows:
 **Jiazheng Xing \***, Chao Xu\*, Yijie Qian, Yang Liu, Guang Dai, Baigui Sun, Yong Liu, Jingdong Wang
 
 [**Code**](https://github.com/jiazheng-xing/TryOn-Adapter) &nbsp;
-[**Models**](https://huggingface.co/Ockham98/TryOn-Adapter/tree/main/models) &nbsp;
 [![](https://img.shields.io/github/stars/jiazheng-xing/TryOn-Adapter?style=social&label=Code+Stars)](https://github.com/jiazheng-xing/TryOn-Adapter)
+[**Models**](https://huggingface.co/Ockham98/TryOn-Adapter/tree/main/models) &nbsp;
 
 </div>
 </div>
@@ -161,11 +176,13 @@ Mengmeng Wang\*, **Jiazheng Xing\***, Jing Su, Jun Chen, Yong Liu
 </div>
 
 #### 📑 Other Papers
+- ``Preprint`` [Towards Reason-Informed Video Editing in Unified Models with Self-Reflective Learning](https://arxiv.org/abs/2512.09924) <span style="color:red"></span> <br> 
+Xinyu Liu, Hangjie Yuan, Yujie Wei, **Jiazheng Xing**, Yujin Han, Jiahao Pan, Yanbiao Ma, Chi-Min Chan, Kang Zhao, Shiwei Zhang, Wenhan Luo, Yike Guo
 - ``NeurIPS 2025`` [UniLumos: Fast and Unified Image and Video Relighting with Physics-Plausible Feedback](https://arxiv.org/abs/2511.01678) <span style="color:red"></span> <br> 
 Ropeway Liu, Hangjie Yuan, Bo Dong, **Jiazheng Xing**, Jinwang Wang, Rui Zhao, Yan Xing, Weihua Chen, Fan Wang
 - ``Preprint`` [LumosFlow: Motion-Guided Long Video Generation](https://arxiv.org/abs/2506.02497) <span style="color:red"></span> <br> 
 Jiahao Chen, Hangjie Yuan, Yichen Qian, Jingyun Liang, **Jiazheng Xing**, Pengwei Liu, Weihua Chen, Fan Wang, Bing Su
-- ``Preprint`` [Lumos-1: On autoregressive video generation from a unified model perspective](https://arxiv.org/abs/2507.08801) <span style="color:red"></span> <br> 
+- ``ICLR 2026`` [Lumos-1: On autoregressive video generation from a unified model perspective](https://arxiv.org/abs/2507.08801) <span style="color:red">[CCF-A]</span> <br>
 Hangjie Yuan, Weihua Chen, Jun Cen, Hu Yu, Jingyun Liang, Shuning Chang, Zhihui Lin, Tao Feng, Pengwei Liu, **Jiazheng Xing**, Hao Luo, Jiasheng Tang, Fan Wang, Yi Yang
 - ``Preprint`` [LumosFlow: Motion-Guided Long Video Generation](https://arxiv.org/abs/2506.02497) <span style="color:red"></span> <br> 
 Jiahao Chen, Hangjie Yuan, Yichen Qian, Jingyun Liang, **Jiazheng Xing**, Pengwei Liu, Weihua Chen, Fan Wang, Bing Su
@@ -193,7 +210,9 @@ Research Intern @ Alibaba Group. Focus on Customized and Controllable Generation
 </div>
 
 # 🎖 Selected Honors and Awards
+- *2025.12* Phoenix Scholarship. 
 - *2024.12* Huawei Elite Scholarship. 
+- *2024.07* China Scholarship Council (CSC) Scholarship.
 - *2023.12* National Scholarship, Ministry of Education of China (graduate stage). 
 - *2020.12* National Scholarship, Ministry of Education of China (undergraduate stage). 
 - *2020.06* Provincial Outstanding Student Award. 
@@ -202,7 +221,9 @@ Research Intern @ Alibaba Group. Focus on Customized and Controllable Generation
 - *2019.06* Second Prize in the Provincial Division of the National Mechanics Competition for College Students. 
 - *2019.05* Honorable Mention in Mathematical Contest in Modeling. 
 
+<span class='anchor' id='academic-services'></span>
+
 # 🎓 Academic Service 
-Reviewer (Conferences): ICLR, AAAI, ICCV, CVPR, and BMVC.
+Reviewer (Conferences): ECCV, ICLR, AAAI, ICCV, CVPR, and BMVC.
 
 Reviewer (Journals): IJCV, IEEE TNNLS, IEEE TCSVT, PR, and ACM TOMM.

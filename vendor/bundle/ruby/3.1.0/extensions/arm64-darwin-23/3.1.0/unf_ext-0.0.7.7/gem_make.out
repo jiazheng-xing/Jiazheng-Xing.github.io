@@ -1,0 +1,20 @@
+current directory: /Users/xingjiazheng/Desktop/github-pages/Jiazheng-Xing.github.io/vendor/bundle/ruby/3.1.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+/opt/homebrew/opt/ruby@3.1/bin/ruby extconf.rb
+checking for -lstdc++... yes
+creating Makefile
+
+current directory: /Users/xingjiazheng/Desktop/github-pages/Jiazheng-Xing.github.io/vendor/bundle/ruby/3.1.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20260323-10442-anjdkx sitelibdir\=./.gem.20260323-10442-anjdkx clean
+
+current directory: /Users/xingjiazheng/Desktop/github-pages/Jiazheng-Xing.github.io/vendor/bundle/ruby/3.1.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20260323-10442-anjdkx sitelibdir\=./.gem.20260323-10442-anjdkx
+compiling unf.cc
+linking shared-object unf_ext.bundle
+ld: warning: ignoring duplicate libraries: '-lc++', '-lruby.3.1'
+
+current directory: /Users/xingjiazheng/Desktop/github-pages/Jiazheng-Xing.github.io/vendor/bundle/ruby/3.1.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20260323-10442-anjdkx sitelibdir\=./.gem.20260323-10442-anjdkx install
+/usr/bin/install -c -m 0755 unf_ext.bundle ./.gem.20260323-10442-anjdkx
+
+current directory: /Users/xingjiazheng/Desktop/github-pages/Jiazheng-Xing.github.io/vendor/bundle/ruby/3.1.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20260323-10442-anjdkx sitelibdir\=./.gem.20260323-10442-anjdkx clean
