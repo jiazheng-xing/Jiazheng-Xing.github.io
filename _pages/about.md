@@ -184,8 +184,6 @@ Ropeway Liu, Hangjie Yuan, Bo Dong, **Jiazheng Xing**, Jinwang Wang, Rui Zhao, Y
 Jiahao Chen, Hangjie Yuan, Yichen Qian, Jingyun Liang, **Jiazheng Xing**, Pengwei Liu, Weihua Chen, Fan Wang, Bing Su
 - ``ICLR 2026`` [Lumos-1: On autoregressive video generation from a unified model perspective](https://arxiv.org/abs/2507.08801) <span style="color:red">[CCF-A]</span> <br>
 Hangjie Yuan, Weihua Chen, Jun Cen, Hu Yu, Jingyun Liang, Shuning Chang, Zhihui Lin, Tao Feng, Pengwei Liu, **Jiazheng Xing**, Hao Luo, Jiasheng Tang, Fan Wang, Yi Yang
-- ``Preprint`` [LumosFlow: Motion-Guided Long Video Generation](https://arxiv.org/abs/2506.02497) <span style="color:red"></span> <br> 
-Jiahao Chen, Hangjie Yuan, Yichen Qian, Jingyun Liang, **Jiazheng Xing**, Pengwei Liu, Weihua Chen, Fan Wang, Bing Su
 - ``AAAI 2026`` [Cyc3D: Fine-grained Controllable 3D Generation via Cycle Consistency Regularization](https://arxiv.org/abs/2504.14975)  <span style="color:red">[CCF-A]</span> <br>
 Hongbin Xu, Chaohui Yu, Feng Xiao, **Jiazheng Xing**, Hai Ci, Weitao Chen, Ming Li
 - ``ICASSP 2025`` [CFSum: A Transformer-Based Multi-Modal Video Summarization Framework With Coarse-Fine Fusion](https://ieeexplore.ieee.org/abstract/document/10889812) <span style="color:red">[CCF-B]</span> <br>
@@ -224,6 +222,6 @@ Research Intern @ Alibaba Group. Focus on Customized and Controllable Generation
 <span class='anchor' id='academic-services'></span>
 
 # 🎓 Academic Service 
-Reviewer (Conferences): ECCV, ICLR, AAAI, ICCV, CVPR, and BMVC.
+Reviewer (Conferences): ECCV, ICLR, NeurIPS, AAAI, ICCV, CVPR, and BMVC.
 
 Reviewer (Journals): IJCV, IEEE TNNLS, IEEE TCSVT, PR, and ACM TOMM.
