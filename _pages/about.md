@@ -28,6 +28,7 @@ My current research interests and past experience can be summarized as follows:
 
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉 [FSAR-LLaVA](https://link.springer.com/article/10.1007/s11263-026-02895-z) is accepted by *International Journal of Computer Vision (IJCV 2026)*! 
 - *2026.01*: &nbsp;🎉 [LumosX](https://arxiv.org/abs/2603.20192) and [Lumos-1](https://arxiv.org/abs/2507.08801) are accepted by *ICLR 2026*! 
 - *2025.11*: &nbsp;🎉 [OptMark](https://arxiv.org/abs/2508.21727) and [Cyc3D](https://arxiv.org/abs/2504.14975) are accepted by *AAAI 2026*! 
 - *2025.09*: &nbsp;🎉 [UniLumos](https://arxiv.org/abs/2511.01678) is accepted by *NeurIPS 2025*! 
@@ -46,6 +47,20 @@ My current research interests and past experience can be summarized as follows:
 (\* means equal contributions)
 
 ## 🤖 Generative AI
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/lumos-nexus.jpg' alt="sym" width="98%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Preprint**] [Lumos-Nexus: Efficient Frequency Bridging with Homogeneous Latent Space for Video Unified Models](https://arxiv.org/abs/2605.31603)  \\
+**Jiazheng Xing \***, Hangjie Yuan\*, Lingling Cai, Xinyu Liu, Yujie Wei, Fei Du, Hai Ci, Tao Feng, Jiasheng Tang, Weihua Chen, Fan Wang, Yong Liu
+
+[**Project Page**](https://jiazheng-xing.github.io/nexus-lumos-home/)
+[**Code**](https://github.com/alibaba-damo-academy/Lumos-Custom/tree/main/Lumos-Nexus) &nbsp;
+[![](https://img.shields.io/github/stars/alibaba-damo-academy/Lumos-Custom?style=social&label=Code+Stars)](https://github.com/alibaba-damo-academy/Lumos-Custom)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/LumosX.png' alt="sym" width="98%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -84,16 +99,16 @@ My current research interests and past experience can be summarized as follows:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/ImagineID.jpg' alt="sym" width="98%"></div></div>
+## 🧠 Representation Learning
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2026</div><img src='images/FSAR-LLaVA.png' alt="sym" width="98%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**CVPR 2024**] [FaceChain-ImagineID: Freely Crafting High-Fidelity Diverse Talking Faces from Disentangled Audio](https://openaccess.thecvf.com/content/CVPR2024/html/Xu_FaceChain-ImagineID_Freely_Crafting_High-Fidelity_Diverse_Talking_Faces_from_Disentangled_Audio_CVPR_2024_paper.html) <span style="color:red">[CCF-A]</span> \\
-Chao Xu\*, Yang Liu\*, **Jiazheng Xing**, Weida Wang, Mingze Sun, Jun Dan, Tianxin Huang, Siyuan Li, Zhi-Qi Cheng, Ying Tai, Baigui Sun
+[**IJCV 2026**] [FSAR-LLaVA: Knowledge is Power: Advancing Few-shot Action Recognition with Multimodal Semantics from MLLMs](https://link.springer.com/article/10.1007/s11263-026-02895-z) <span style="color:red">[CCF-A]</span> \\
+**Jiazheng Xing**, Chao Xu, Hangjie Yuan, Mengmeng Wang, Jun Dan, Hangwei Qian, Yong Liu
 
 </div>
 </div>
-
-## 🧠 Representation Learning
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2025</div><img src='images/MA-FSAR.jpg' alt="sym" width="98%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -148,7 +163,7 @@ Mengmeng Wang\*, **Jiazheng Xing\***, Jianbiao Mei, Yong Liu, Yunliang Jiang
 <div class='paper-box-text' markdown="1">
 
 [**ICCV 2023**] [Boosting Few-shot Action Recognition with Graph-guided Hybrid Matching](https://openaccess.thecvf.com/content/ICCV2023/html/Xing_Boosting_Few-shot_Action_Recognition_with_Graph-guided_Hybrid_Matching_ICCV_2023_paper.html) <span style="color:red">[CCF-A]</span> \\
-**Jiazheng Xing\***, Mengmeng Wang\*, Yudi Ruan, Bofan Chen, Yaowei Guo, Boyu Mu, Guang Dai, Jingdong Wang, Yong Liu
+**Jiazheng Xing\***, Mengmeng Wang\*, Yudi Ruan, Yaowei Guo, Boyu Mu, Guang Dai, Jingdong Wang, Yong Liu
 
 </div>
 </div>
@@ -178,20 +193,22 @@ Mengmeng Wang\*, **Jiazheng Xing\***, Jing Su, Jun Chen, Yong Liu
 #### 📑 Other Papers
 - ``Preprint`` [Towards Reason-Informed Video Editing in Unified Models with Self-Reflective Learning](https://arxiv.org/abs/2512.09924) <span style="color:red"></span> <br> 
 Xinyu Liu, Hangjie Yuan, Yujie Wei, **Jiazheng Xing**, Yujin Han, Jiahao Pan, Yanbiao Ma, Chi-Min Chan, Kang Zhao, Shiwei Zhang, Wenhan Luo, Yike Guo
-- ``NeurIPS 2025`` [UniLumos: Fast and Unified Image and Video Relighting with Physics-Plausible Feedback](https://arxiv.org/abs/2511.01678) <span style="color:red"></span> <br> 
-Ropeway Liu, Hangjie Yuan, Bo Dong, **Jiazheng Xing**, Jinwang Wang, Rui Zhao, Yan Xing, Weihua Chen, Fan Wang
-- ``Preprint`` [LumosFlow: Motion-Guided Long Video Generation](https://arxiv.org/abs/2506.02497) <span style="color:red"></span> <br> 
-Jiahao Chen, Hangjie Yuan, Yichen Qian, Jingyun Liang, **Jiazheng Xing**, Pengwei Liu, Weihua Chen, Fan Wang, Bing Su
 - ``ICLR 2026`` [Lumos-1: On autoregressive video generation from a unified model perspective](https://arxiv.org/abs/2507.08801) <span style="color:red">[CCF-A]</span> <br>
 Hangjie Yuan, Weihua Chen, Jun Cen, Hu Yu, Jingyun Liang, Shuning Chang, Zhihui Lin, Tao Feng, Pengwei Liu, **Jiazheng Xing**, Hao Luo, Jiasheng Tang, Fan Wang, Yi Yang
 - ``AAAI 2026`` [Cyc3D: Fine-grained Controllable 3D Generation via Cycle Consistency Regularization](https://arxiv.org/abs/2504.14975)  <span style="color:red">[CCF-A]</span> <br>
 Hongbin Xu, Chaohui Yu, Feng Xiao, **Jiazheng Xing**, Hai Ci, Weitao Chen, Ming Li
+- ``NeurIPS 2025`` [UniLumos: Fast and Unified Image and Video Relighting with Physics-Plausible Feedback](https://arxiv.org/abs/2511.01678) <span style="color:red"></span> <br> 
+Ropeway Liu, Hangjie Yuan, Bo Dong, **Jiazheng Xing**, Jinwang Wang, Rui Zhao, Yan Xing, Weihua Chen, Fan Wang
+- ``Preprint`` [LumosFlow: Motion-Guided Long Video Generation](https://arxiv.org/abs/2506.02497) <span style="color:red"></span> <br> 
+Jiahao Chen, Hangjie Yuan, Yichen Qian, Jingyun Liang, **Jiazheng Xing**, Pengwei Liu, Weihua Chen, Fan Wang, Bing Su
 - ``ICASSP 2025`` [CFSum: A Transformer-Based Multi-Modal Video Summarization Framework With Coarse-Fine Fusion](https://ieeexplore.ieee.org/abstract/document/10889812) <span style="color:red">[CCF-B]</span> <br>
 Yaowei Guo, **Jiazheng Xing**, Xiaojun Hou, Shuo Xin, Juntao Jiang, Demetri Terzopoulos, Chenfanfu Jiang, Yong Liu
 - ``Preprint`` [Visual Object Tracking across Diverse Data Modalities: A Review](https://arxiv.org/abs/2506.02497) <span style="color:red"></span> <br>
 Mengmeng Wang, Teli Ma, Shuo Xin, Xiaojun Hou, **Jiazheng Xing**, Guang Dai, Jingdong Wang, Yong Liu
 - ``ACMMM 2024`` [HOGDA: Boosting Semi-supervised Graph Domain Adaptation via High-Order Structure-Guided Adaptive Feature Alignment](https://dl.acm.org/doi/abs/10.1145/3664647.3680765) <span style="color:red">[CCF-A]</span> <br>
 Jun Dan, Weiming Liu, Mushui Liu, Chunfeng Xie, Shunjie Dong, Guofang Ma, Yanchao Tan, **Jiazheng Xing**
+- ``CVPR 2024`` [FaceChain-ImagineID: Freely Crafting High-Fidelity Diverse Talking Faces from Disentangled Audio](https://openaccess.thecvf.com/content/CVPR2024/html/Xu_FaceChain-ImagineID_Freely_Crafting_High-Fidelity_Diverse_Talking_Faces_from_Disentangled_Audio_CVPR_2024_paper.html) <span style="color:red">[CCF-A]</span> <br>
+Chao Xu\*, Yang Liu\*, **Jiazheng Xing**, Weida Wang, Mingze Sun, Jun Dan, Tianxin Huang, Siyuan Li, Zhi-Qi Cheng, Ying Tai, Baigui Sun
 
 # 📖 Education & Visiting
 - *2024.10 - 2025.10:*  Visiting Ph.D. Student in the Department of Electrical and Computer Engineering, National University of Singapore, Singapore.
@@ -222,6 +239,6 @@ Research Intern @ Alibaba Group. Focus on Customized and Controllable Generation
 <span class='anchor' id='academic-services'></span>
 
 # 🎓 Academic Service 
-Reviewer (Conferences): ECCV, ICLR, NeurIPS, AAAI, ICCV, CVPR, and BMVC.
+Reviewer (Conferences): ICLR, NeurIPS, AAAI, ECCV, ICCV, CVPR, and BMVC.
 
 Reviewer (Journals): IJCV, IEEE TNNLS, IEEE TCSVT, PR, and ACM TOMM.
