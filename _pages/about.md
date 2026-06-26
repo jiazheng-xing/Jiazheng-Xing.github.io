@@ -49,7 +49,7 @@ My current research interests and past experience can be summarized as follows:
 
 ## 🤖 Generative AI
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/lumos-nexus.jpg' alt="sym" width="98%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/lumos-nexus.jpg' alt="sym" width="98%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**ECCV 2026**] [Lumos-Nexus: Efficient Frequency Bridging with Homogeneous Latent Space for Video Unified Models](https://arxiv.org/abs/2605.31603)  <span style="color:red">[CCF-B]</span> \\
