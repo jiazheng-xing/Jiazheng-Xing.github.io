@@ -28,6 +28,7 @@ My current research interests and past experience can be summarized as follows:
 
 
 # 🔥 News
+- *2026.06*: &nbsp;🎉 [Lumos-Nexus](https://arxiv.org/abs/2605.31603) is accepted by *ECCV 2026*! 
 - *2026.05*: &nbsp;🎉 [FSAR-LLaVA](https://link.springer.com/article/10.1007/s11263-026-02895-z) is accepted by *International Journal of Computer Vision (IJCV 2026)*! 
 - *2026.01*: &nbsp;🎉 [LumosX](https://arxiv.org/abs/2603.20192) and [Lumos-1](https://arxiv.org/abs/2507.08801) are accepted by *ICLR 2026*! 
 - *2025.11*: &nbsp;🎉 [OptMark](https://arxiv.org/abs/2508.21727) and [Cyc3D](https://arxiv.org/abs/2504.14975) are accepted by *AAAI 2026*! 
@@ -51,7 +52,7 @@ My current research interests and past experience can be summarized as follows:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/lumos-nexus.jpg' alt="sym" width="98%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Preprint**] [Lumos-Nexus: Efficient Frequency Bridging with Homogeneous Latent Space for Video Unified Models](https://arxiv.org/abs/2605.31603)  \\
+[**ECCV 2026**] [Lumos-Nexus: Efficient Frequency Bridging with Homogeneous Latent Space for Video Unified Models](https://arxiv.org/abs/2605.31603)  <span style="color:red">[CCF-B]</span> \\
 **Jiazheng Xing \***, Hangjie Yuan\*, Lingling Cai, Xinyu Liu, Yujie Wei, Fei Du, Hai Ci, Tao Feng, Jiasheng Tang, Weihua Chen, Fan Wang, Yong Liu
 
 [**Project Page**](https://jiazheng-xing.github.io/nexus-lumos-home/)
@@ -104,7 +105,7 @@ My current research interests and past experience can be summarized as follows:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2026</div><img src='images/FSAR-LLaVA.png' alt="sym" width="98%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**IJCV 2026**] [FSAR-LLaVA: Knowledge is Power: Advancing Few-shot Action Recognition with Multimodal Semantics from MLLMs](https://link.springer.com/article/10.1007/s11263-026-02895-z) <span style="color:red">[CCF-A]</span> \\
+[**IJCV 2026**] [Knowledge is Power: Advancing Few-shot Action Recognition with Multimodal Semantics from MLLMs](https://link.springer.com/article/10.1007/s11263-026-02895-z) <span style="color:red">[CCF-A]</span> \\
 **Jiazheng Xing**, Chao Xu, Hangjie Yuan, Mengmeng Wang, Jun Dan, Hangwei Qian, Yong Liu
 
 </div>
