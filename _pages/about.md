@@ -53,7 +53,7 @@ My current research interests and past experience can be summarized as follows:
 <div class='paper-box-text' markdown="1">
 
 [**ECCV 2026**] [Lumos-Nexus: Efficient Frequency Bridging with Homogeneous Latent Space for Video Unified Models](https://arxiv.org/abs/2605.31603)  <span style="color:red">[CCF-B]</span> \\
-**Jiazheng Xing \***, Hangjie Yuan\*, Lingling Cai, Xinyu Liu, Yujie Wei, Fei Du, Hai Ci, Tao Feng, Jiasheng Tang, Weihua Chen, Fan Wang, Yong Liu
+**Jiazheng Xing \***, Hangjie Yuan\*, Lingling Cai, Xinyu Liu, Yujie Wei, Fei Du, Tao Feng, Hai Ci, Jiasheng Tang, Weihua Chen, Fan Wang, Yong Liu
 
 [**Project Page**](https://jiazheng-xing.github.io/nexus-lumos-home/)
 [**Code**](https://github.com/alibaba-damo-academy/Lumos-Custom/tree/main/Lumos-Nexus) &nbsp;
