@@ -87,6 +87,27 @@
 
 }
 
+.internship-box {
+    .paper-box-image {
+        min-width: 0;
+        max-width: 110px;
+        width: 110px;
+        flex-shrink: 0;
+
+        img {
+            max-width: 100%;
+            width: 100%;
+            box-shadow: none;
+        }
+    }
+
+    .paper-box-text {
+        max-width: calc(100% - 110px);
+        padding-left: 1em;
+        flex: 1;
+    }
+}
+
 $scroll_offset : 2em;
 h1:before, .anchor:before { 
     content: ''; 
@@ -106,4 +127,55 @@ h1:before, .anchor:before {
     color: white;
     background-color: #00369f;
     font-size: .8em;
+}
+
+.edu-list {
+    list-style: disc;
+    padding-left: 1.2em;
+    margin: 0.5em 0 1.5em;
+
+    .edu-item {
+        display: flex;
+        align-items: flex-start;
+        margin-bottom: 1em;
+        line-height: 1.5;
+    }
+
+    .edu-date {
+        flex: 0 0 auto;
+        white-space: nowrap;
+    }
+
+    .edu-sep {
+        margin: 0 0.45em;
+        flex: 0 0 auto;
+    }
+
+    .edu-body {
+        flex: 1;
+        min-width: 0;
+    }
+
+    .edu-main {
+        display: flex;
+        align-items: center;
+        flex-wrap: wrap;
+        gap: 0.35em;
+    }
+
+    .edu-logo {
+        width: 1.35em;
+        height: 1.35em;
+        border-radius: 50%;
+        object-fit: cover;
+        display: inline-block;
+        vertical-align: middle;
+        box-shadow: none;
+    }
+
+    .edu-sub {
+        margin-top: 0.15em;
+        margin-left: 1.7em;
+        color: #444;
+    }
 }

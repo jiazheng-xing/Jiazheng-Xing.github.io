@@ -18,13 +18,15 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 😎 About Me
-I am a Ph.D. candidate in the Department of Control Science and Engineering at Zhejiang University (ZJU), where I have been since 2021, under the supervision of [Prof. Yong Liu](https://scholar.google.com/citations?user=qYcgBbEAAAAJ&hl=en) at the [April Lab](https://april.zju.edu.cn/).  I have undertaken a one-year visiting Ph.D program at the National University of Singapore (NUS), working under the supervision of [Prof.  Mike Z. SHOW](https://scholar.google.com/citations?user=h1-3lSoAAAAJ&hl=zh-CN) in the [Show Lab](https://sites.google.com/view/showlab).
+I have joined Ant Group as a researcher through the Ant Star Plan-A program, where I work on multimodal large language models with advanced agentic reasoning and interaction capabilities.
+I also hold an postdoctoral research position at Zhejiang University, working with [Prof. Yi Yang](https://scholar.google.com/citations?user=RMSuNFwAAAAJ&hl=en).
+I obtained my Ph.D. in Control Science and Engineering from Zhejiang University (ZJU), under the supervision of [Prof. Yong Liu](https://scholar.google.com/citations?user=qYcgBbEAAAAJ&hl=en) at the [April Lab](https://april.zju.edu.cn/).  I have undertaken a one-year visiting Ph.D program at the National University of Singapore (NUS), working under the supervision of [Prof.  Mike Z. SHOW](https://scholar.google.com/citations?user=h1-3lSoAAAAJ&hl=zh-CN) in the [Show Lab](https://sites.google.com/view/showlab).
 <!-- Currently, I am a visiting Ph.D. student at the National University of Singapore (NUS), working under the guidance of [Prof.  Mike Z. SHOW](https://scholar.google.com/citations?user=h1-3lSoAAAAJ&hl=zh-CN) at the [Show Lab](https://sites.google.com/view/showlab). -->
 
 My current research interests and past experience can be summarized as follows:
-- 1️⃣ Generative Models: Controllable Image Generation, Customized Video Generation, Generation Safety;
-- 2️⃣ Representation Learning: Action Recognition, Few-shot Action Recognition, Multimodal Learning;
-- 3️⃣ Unified Models.
+- 1️⃣ Agentic MLLMs;
+- 2️⃣ Generative Models: Video Unified Models, Controllable Image Generation, Customized Video Generation, Generation Safety;
+- 3️⃣ Representation Learning: Action Recognition, Few-shot Action Recognition, Multimodal Learning;
 
 
 # 🔥 News
@@ -35,7 +37,7 @@ My current research interests and past experience can be summarized as follows:
 - *2025.09*: &nbsp;🎉 [UniLumos](https://arxiv.org/abs/2511.01678) is accepted by *NeurIPS 2025*! 
 - *2025.05*: &nbsp;🎉 [MA-FSAR](https://www.sciencedirect.com/science/article/pii/S003132032500562X) is accepted by *Pattern Recognition (PR 2025)*! 
 - *2025.01*: &nbsp;🎉 [TryOn-Adapter](https://link.springer.com/article/10.1007/s11263-025-02352-3) is accepted by *International Journal of Computer Vision (IJCV 2025)*! 
-- *2024.12*: &nbsp;🎉 [CFSum](https://ieeexplore.ieee.org/abstract/document/10889812) is accepted by *ICASSP 2025*! 
+<!-- - *2024.12*: &nbsp;🎉 [CFSum](https://ieeexplore.ieee.org/abstract/document/10889812) is accepted by *ICASSP 2025*!  -->
 - *2024.10*: &nbsp;👷 I joined the [Show Lab](https://sites.google.com/view/showlab) at NUS as a visiting Ph.D. student. 
 - *2024.03*: &nbsp;🎉 [Sdstrack](https://openaccess.thecvf.com/content/CVPR2024/html/Hou_SDSTrack_Self-Distillation_Symmetric_Adapter_Learning_for_Multi-Modal_Visual_Object_Tracking_CVPR_2024_paper.html) and [FaceChain-ImagineID](https://openaccess.thecvf.com/content/CVPR2024/html/Xu_FaceChain-ImagineID_Freely_Crafting_High-Fidelity_Diverse_Talking_Faces_from_Disentangled_Audio_CVPR_2024_paper.html)  are accepted by *CVPR 2024*! 
 - *2023.11*: &nbsp;🎉 [M2CLIP](https://ojs.aaai.org/index.php/AAAI/article/view/28361) is accepted by *AAAI 2024 (oral)*! 
@@ -49,7 +51,7 @@ My current research interests and past experience can be summarized as follows:
 
 ## 🤖 Generative AI
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/lumos-nexus.jpg' alt="sym" width="98%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/lumos-nexus.gif' alt="sym" width="98%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**ECCV 2026**] [Lumos-Nexus: Efficient Frequency Bridging with Homogeneous Latent Space for Video Unified Models](https://arxiv.org/abs/2605.31603)  <span style="color:red">[CCF-B]</span> \\
@@ -62,7 +64,7 @@ My current research interests and past experience can be summarized as follows:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/LumosX.png' alt="sym" width="98%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/lumosx.gif' alt="sym" width="98%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**ICLR 2026**] [LumosX: Relate Any Identities with Their Attributes for Personalized Video Generation](https://arxiv.org/abs/2603.20192)  <span style="color:red">[CCF-A]</span>  \\
@@ -211,24 +213,55 @@ Jun Dan, Weiming Liu, Mushui Liu, Chunfeng Xie, Shunjie Dong, Guofang Ma, Yancha
 - ``CVPR 2024`` [FaceChain-ImagineID: Freely Crafting High-Fidelity Diverse Talking Faces from Disentangled Audio](https://openaccess.thecvf.com/content/CVPR2024/html/Xu_FaceChain-ImagineID_Freely_Crafting_High-Fidelity_Diverse_Talking_Faces_from_Disentangled_Audio_CVPR_2024_paper.html) <span style="color:red">[CCF-A]</span> <br>
 Chao Xu\*, Yang Liu\*, **Jiazheng Xing**, Weida Wang, Mingze Sun, Jun Dan, Tianxin Huang, Siyuan Li, Zhi-Qi Cheng, Ying Tai, Baigui Sun
 
-# 📖 Education & Visiting
-- *2024.10 - 2025.10:*  Visiting Ph.D. Student in the Department of Electrical and Computer Engineering, National University of Singapore, Singapore.
-- *2021.09 - now:*  M.S. + Ph.D. Student in the Department of Control Science and Engineering, Zhejiang University, China. (admitted with exam exemption)
-- *2017.09 - 2021.06:* B.Eng with an honor degree at the Hongshen Honors College, Chongqing University, China.
+# 📖 Education
+<ul class="edu-list">
+  <li class="edu-item">
+    <span class="edu-date">2021.09 - 2026.06</span>
+    <span class="edu-sep">|</span>
+    <div class="edu-body">
+      <div class="edu-main"><img src="images/zju.webp" class="edu-logo" alt="ZJU"> M.S. + Ph.D. Student in the Department of Control Science and Engineering, Zhejiang University, China </div>
+      <div class="edu-sub">Advisor: <a href="https://scholar.google.com/citations?user=qYcgBbEAAAAJ&hl=en">Prof. Yong Liu</a> at the <a href="https://april.zju.edu.cn/">APRIL Lab</a>; admitted with exam exemption</div>
+    </div>
+  </li>
+  <li class="edu-item">
+    <span class="edu-date">2024.10 - 2025.10</span>
+    <span class="edu-sep">|</span>
+    <div class="edu-body">
+      <div class="edu-main"><img src="images/nus.jpeg" class="edu-logo" alt="NUS"> Visiting Ph.D. Student, National University of Singapore, Singapore</div>
+      <div class="edu-sub">Advisor: <a href="https://scholar.google.com/citations?user=h1-3lSoAAAAJ&hl=zh-CN">Prof. Mike Z. Shou</a> at the <a href="https://sites.google.com/view/showlab">Show Lab</a></div>
+    </div>
+  </li>
+  <li class="edu-item">
+    <span class="edu-date">2017.09 - 2021.06</span>
+    <span class="edu-sep">|</span>
+    <div class="edu-body">
+      <div class="edu-main"><img src="images/cqu.webp" class="edu-logo" alt="CQU"> B.Eng with an honor degree at the Hongshen Honors College, Chongqing University, China</div>
+    </div>
+  </li>
+</ul>
 
 # 💻 Internships
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/alibaba_logo.png' alt="sym" width="80%"></div></div>
+<div class='paper-box internship-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/damo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Alibaba Group**] 
-Research Intern @ Alibaba Group. Focus on Customized and Controllable Generation.
+[**Damo Academy**]
+*2025 - 2026:* Research Intern @ Damo Academy in Alibaba Group. Focus on Customized Video Generation and Video Unified Models.
+</div>
+</div>
+
+<div class='paper-box internship-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/tongyi.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Tongyi Lab**]
+*2023 - 2024:* Research Intern @ Tongyi Lab in Alibaba Group. Focus on Controllable Image Generation.
 </div>
 </div>
 
 # 🎖 Selected Honors and Awards
+- *2026.06* Outstanding Graduate of Zhejiang University.
 - *2025.12* Phoenix Scholarship. 
 - *2024.12* Huawei Elite Scholarship. 
-- *2024.07* China Scholarship Council (CSC) Scholarship.
+<!-- - *2024.07* China Scholarship Council (CSC) Scholarship. -->
 - *2023.12* National Scholarship, Ministry of Education of China (graduate stage). 
 - *2020.12* National Scholarship, Ministry of Education of China (undergraduate stage). 
 - *2020.06* Provincial Outstanding Student Award. 
@@ -240,6 +273,6 @@ Research Intern @ Alibaba Group. Focus on Customized and Controllable Generation
 <span class='anchor' id='academic-services'></span>
 
 # 🎓 Academic Service 
-Reviewer (Conferences): ICLR, NeurIPS, AAAI, ECCV, ICCV, CVPR, and BMVC.
+Reviewer (Conferences): ICLR, NeurIPS, AAAI, ECCV, ICCV, CVPR, WAVC and BMVC.
 
 Reviewer (Journals): IJCV, IEEE TNNLS, IEEE TCSVT, PR, and ACM TOMM.
